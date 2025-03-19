@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Python-developer
 
-[My pet-service](https://real-task-tracker.chickenkiller.com/api/v1/swagger/)
+FastAPI cool
 
 ## Technology stack
 **Back-end**
